@@ -2,9 +2,7 @@
 title: "First R Markdown"
 author: "BCF"
 date: "5/11/2020"
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
